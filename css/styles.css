@@ -1,0 +1,38 @@
+
+body {
+    background-color: #AED6F1;
+}
+
+h1 {
+  font-variant: small-caps;
+}
+
+h2{
+  color: maroon;
+  text-decoration: underline;
+}
+
+.biodata {
+  left: 90%
+  position: absolute;
+  float:right;
+  width: 30%;
+  height: 100%;
+  border-left: solid;
+  padding-left: 10px;
+  font-family: Courier;
+}
+
+.biodata img {
+  width: 150px;
+  height: 100px;
+  border: solid;
+ 
+}
+
+.biodata span {
+  font-weight: bold;
+}
+.barline p {
+  background-color: maroon;
+}
