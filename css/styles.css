@@ -38,3 +38,12 @@ h2{
 .barline p {
   background-color: maroon;
 }
+
+.curiosity {
+  background-image: url("../images/ocean.jpeg");
+    color: white;
+}
+
+.label {
+  font-weight: bold;
+}
